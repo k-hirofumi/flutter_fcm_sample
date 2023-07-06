@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "488353093044",
+    "project_id": "flutter-fcm-test-df250",
+    "storage_bucket": "flutter-fcm-test-df250.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:488353093044:android:cadc8c7f55204db7c64ee1",
+        "android_client_info": {
+          "package_name": "leafnet.flutter_fcm_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "488353093044-0au9lb5greg1oerhk11r4n2neqq0uiao.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDa68VMYYPf7jwQ86ZokhFpajkRWzLg9PY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "488353093044-0au9lb5greg1oerhk11r4n2neqq0uiao.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
